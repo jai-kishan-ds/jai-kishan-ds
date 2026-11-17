@@ -1,4 +1,4 @@
-# Hi, I'm Jai Sharma 👋
+# Hi, I'm Jai Kishan 👋
 
 ### Aspiring Data Scientist | MCA Data Science Student
 
